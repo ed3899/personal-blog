@@ -1,11 +1,11 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "title": "Eduardo Casanova",
+  "url": "",
+  "subtitle": "Anyone can learn software engineering. But you have to be a nerd to excel at it. Let's build something, have fun and make it epic! ",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
-  "postsLimit": 4,
+  "postsLimit": 3,
   "pathPrefix": "/",
   "menu": [
     {
@@ -22,26 +22,27 @@
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Eduardo Casanova",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "Anyone can learn software engineering. But you have to be a nerd to excel at it. Let's build something, have fun and make it epic!",
     "contacts": {
       "rss": "",
-      "email": "",
-      "github": "#",
-      "facebook": "#",
-      "telegram": "#",
-      "twitter": "#",
-      "linkedin": "#",
-      "instagram": "#",
-      "mastodon": "#",
+      "email": "ed.wacc1995@gmail.com",
+      "github": "https://github.com/ed3899",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/edwardcasanova/",
+      "instagram": "",
+      "mastodon": "",
       "line": "",
       "weibo": "",
       "gitlab": "",
       "medium": "",
       "youtube": "",
       "codepen": "",
-      "soundcloud": ""
+      "soundcloud": "",
+      "stackoverflow": "https://stackoverflow.com/users/11941146/edward-casanova"
     }
   }
 }
