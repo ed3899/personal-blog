@@ -6,7 +6,7 @@ import { Feed } from "@/components/Feed";
 import { Layout } from "@/components/Layout";
 import { Meta } from "@/components/Meta";
 import { Page } from "@/components/Page";
-import { Pagination } from "@/components/Pagination";
+
 import { Sidebar } from "@/components/Sidebar";
 import { useSiteMetadata } from "@/hooks";
 import { AllMarkdownRemark, PageContext } from "@/types";
@@ -18,9 +18,7 @@ interface Props {
   pageContext: PageContext;
 }
 
-const IndexTemplate: React.FC<Props> = ({ data, pageContext }: Props) => {
-  const { pagination } = pageContext;
-  const { hasNextPage, hasPrevPage, prevPagePath, nextPagePath } = pagination;
+const IndexTemplate: React.FC<Props> = ({ data }: Props) => {
 
   const { edges } = data.allMarkdownRemark;
 
@@ -29,12 +27,6 @@ const IndexTemplate: React.FC<Props> = ({ data, pageContext }: Props) => {
       <Sidebar isIndex />
       <Page>
         <Feed edges={edges} />
-        <Pagination
-          prevPagePath={prevPagePath}
-          nextPagePath={nextPagePath}
-          hasPrevPage={hasPrevPage}
-          hasNextPage={hasNextPage}
-        />
       </Page>
     </Layout>
   );
