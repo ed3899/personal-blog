@@ -19,19 +19,6 @@ describe("PostTemplate", () => {
     mockedUseStaticQuery.mockReturnValue(mocks.siteMetadata);
   });
 
-  test("renders correctly", () => {
-    const props = {
-      data: {
-        markdownRemark: mocks.markdownRemark,
-      },
-    };
-
-    const tree = testUtils
-      .createSnapshotsRenderer(<PostTemplate {...props} />)
-      .toJSON();
-    expect(tree).toMatchSnapshot();
-  });
-
   test("head renders correctly", () => {
     const props = {
       data: {

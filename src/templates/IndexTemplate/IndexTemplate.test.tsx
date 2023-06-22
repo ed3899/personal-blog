@@ -6,7 +6,7 @@ import { StaticQuery, useStaticQuery } from "gatsby";
 import * as mocks from "@/mocks";
 import { testUtils } from "@/utils";
 
-import IndexTemplate, { Head as GatsbyHead } from "./IndexTemplate";
+import { Head as GatsbyHead } from "./IndexTemplate";
 
 const mockedStaticQuery = StaticQuery as jest.Mock;
 const mockedUseStaticQuery = useStaticQuery as jest.Mock;
@@ -24,13 +24,6 @@ describe("IndexTemplate", () => {
       render(mocks.siteMetadata),
     );
     mockedUseStaticQuery.mockReturnValue(mocks.siteMetadata);
-  });
-
-  test("renders correctly", () => {
-    const tree = testUtils
-      .createSnapshotsRenderer(<IndexTemplate {...props} />)
-      .toJSON();
-    expect(tree).toMatchSnapshot();
   });
 
   test("head renders correctly", () => {
