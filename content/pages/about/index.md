@@ -1,13 +1,14 @@
 ---
-title: "About me"
+title: "My Story"
 template: "page"
-socialImage: "./notebook.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hello, I'm Eduardo Casanova, and I embarked on my coding journey in 2019 as a response to the Covid outbreak, which led me to switch careers from personal training to becoming a full stack engineer. Throughout this transformative process, I discovered profound insights about myself and human nature. Necessity proved to be an incredible motivator.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
+Interestingly, even as a child, I derived joy from disassembling and reassembling things. Although I had a brief stint in engineering school, personal reasons prompted me to drop out. Life's ironies brought me back to the field of engineering through a serendipitous black swan event.
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
+If you're like me—a self-taught learner with an unwavering belief that the right mindset and a touch of nerdy spirit can enable anyone to acquire any skill—let's embark together on a journey to the realm of software engineering.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Together, we'll create impressive and practical projects to showcase our abilities and explore cutting-edge technologies. We'll defy conventional notions held by academics, hiring managers, and skeptics who insist that a computer science degree and a decade of experience with every IT tool are prerequisites for success in this domain. Instead, we'll prove that we can deliver top-notch production code of exceptional quality.
+
+All you need is a reasonably powerful computer, reliable internet access, and an insatiable desire to learn.

@@ -9,11 +9,11 @@
   "pathPrefix": "/",
   "menu": [
     {
-      "label": "Articles",
+      "label": "Blog",
       "path": "/"
     },
     {
-      "label": "About me",
+      "label": "My Story",
       "path": "/pages/about"
     },
     {
