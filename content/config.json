@@ -1,7 +1,7 @@
 {
   "title": "Eduardo Casanova",
   "url": "",
-  "subtitle": "Anyone can learn software engineering. But you have to be a nerd to excel at it. Let's build something, have fun and make it epic! ",
+  "subtitle": "Embrace your inner nerd, unleash the power of software engineering, and build something epic while having fun along the way.",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
@@ -15,16 +15,12 @@
     {
       "label": "My Story",
       "path": "/pages/about"
-    },
-    {
-      "label": "Contact me",
-      "path": "/pages/contacts"
     }
   ],
   "author": {
     "name": "Eduardo Casanova",
     "photo": "/photo.jpg",
-    "bio": "Anyone can learn software engineering. But you have to be a nerd to excel at it. Let's build something, have fun and make it epic!",
+    "bio": "Embrace your inner nerd, unleash the power of software engineering, and build something epic while having fun along the way.",
     "contacts": {
       "rss": "",
       "email": "ed.wacc1995@gmail.com",
